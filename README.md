@@ -1,1 +1,2 @@
-# DL_course
+# Deep Learning Course Notebooks 
+**By** : Abdelkader Chihab Benamara
