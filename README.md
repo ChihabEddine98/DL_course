@@ -1,5 +1,4 @@
 # Deep Learning Course Notebooks 
-**By** : Abdelkader Chihab Benamara
-
+**By** : Chihab Eddine 
 ## TODO 
 ---
