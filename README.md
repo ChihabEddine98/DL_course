@@ -2,4 +2,4 @@
 **By** : Chihab Eddine (#)
 ## TODO 
 ---
-.idea (--del)
+.idea (-d)
