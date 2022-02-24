@@ -1,5 +1,5 @@
 # Deep Learning Course Notebooks 
-**By** : Chihab Eddine (#)
+**By** : Chihab Eddine (##)
 ## TODO 
 ---
 .idea ##
