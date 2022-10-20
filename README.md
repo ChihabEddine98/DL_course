@@ -1,5 +1,6 @@
 # Deep Learning Course Notebooks 
 
-## TODO 
+## TODO  
 ---
 
+.idea
